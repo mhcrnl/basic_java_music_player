@@ -20,7 +20,7 @@ import java.io.FilenameFilter;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Example of playing two videos with a single media player. */
+/** Example of playing all audio files in a given directory. */
 public class AudioPlaylist extends Application {
   final Label currentlyPlaying = new Label();
   final ProgressBar progress = new ProgressBar();
